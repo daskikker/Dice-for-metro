@@ -4,7 +4,7 @@
   "manifest_version": 1,
   "author": "daskikker",
   "homepage_url": "https://github.com/daskikker/Dice-for-metro",
-  "icon": "/logo.png",
+  "icon": "/d10-svgrepo-com.svg",
   "description": "Unofficial Dice roller for metro",
   "action": {
     "title": "DS Dice for metro",
