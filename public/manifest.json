@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "manifest_version": 1,
   "author": "Cort-of-KEO",
-  "homepage_url": "https://daskikker.github.io/Dice-for-metro/",
+  "homepage_url": "https://github.com/daskikker/Dice-for-metro",
   "icon": "https://daskikker.github.io/Dice-for-metro/logo.png",
   "description": "Unofficial Dice roller for Draw Steel",
   "action": {
