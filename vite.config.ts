@@ -7,7 +7,7 @@ declare var __dirname: string;
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/year-zero-engine-dice/",
+  base: "/Dice-for-metro/",
   plugins: [react()],
   assetsInclude: ["**/*.glb", "**/*.hdr"],
   build: {
