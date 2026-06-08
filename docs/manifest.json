@@ -1,17 +1,17 @@
 {
-  "name": "dice-for-metro",
-  "version": "0.1.6",
+  "name": "DS Dice for OBR",
+  "version": "0.1.1",
   "manifest_version": 1,
-  "author": "daskikker",
-  "homepage_url": "https://daskikker.github.io/Dice-for-metro/",
-  "icon": "yze",
-  "description": "Dice for Metro",
+  "author": "Cort-of-KEO",
+  "homepage_url": "https://github.com/daskikker/Dice-for-metro",
+  "icon": "/logo.png",
+  "description": "Unofficial Dice roller for Draw Steel",
   "action": {
-    "title": "dice-for-metro",
-    "icon": "yze",
-    "popover": "https://daskikker.github.io/Dice-for-metro/",
+    "title": "DS Dice for OBR",
+    "icon": "/d10-svgrepo-com.svg",
+    "popover": "/",
     "height": 700,
     "width": 375
   },
-  "background_url": "background.html"
+  "background_url": "/background.html"
 }
