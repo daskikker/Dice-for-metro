@@ -1,8 +1,8 @@
 {
-  "name": "DS Dice for OBR",
+  "name": "DS Dice for Metro",
   "version": "0.1.1",
   "manifest_version": 1,
-  "author": "Cort-of-KEO",
+  "author": "daskikker",
   "homepage_url": "https://github.com/daskikker/Dice-for-metro",
   "icon": "/logo.png",
   "description": "Unofficial Dice roller for metro",
