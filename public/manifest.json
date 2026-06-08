@@ -1,15 +1,15 @@
 {
-  "name": "dice-for-year-zero-engine",
+  "name": "dice-for-metro",
   "version": "0.1.6",
   "manifest_version": 1,
   "author": "daskikker",
-  "homepage_url": "https://MarontoTokio.github.io/year-zero-engine-dice/",
+  "homepage_url": "https://daskikker.github.io/Dice-for-metro/",
   "icon": "yze",
-  "description": "year-zero-engine-dice",
+  "description": "Dice for Metro",
   "action": {
-    "title": "dice-for-year-zero-engine",
+    "title": "dice-for-metro",
     "icon": "yze",
-    "popover": "https://MarontoTokio.github.io/year-zero-engine-dice/",
+    "popover": "https://daskikker.github.io/Dice-for-metro/",
     "height": 700,
     "width": 375
   },
