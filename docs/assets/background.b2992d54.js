@@ -1,0 +1,1 @@
+import{O as i,g as r}from"./getPluginId.5b24b4d0.js";i.onReady(()=>{i.popover.open({id:r("popover"),url:"https://MarontoTokio.github.io/year-zero-engine-dice/",width:0,height:0,anchorOrigin:{horizontal:"RIGHT",vertical:"BOTTOM"},transformOrigin:{horizontal:"RIGHT",vertical:"BOTTOM"},disableClickAway:!0,hidePaper:!0,marginThreshold:0})});
